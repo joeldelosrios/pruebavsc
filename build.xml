@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-"?>
 <!-- You may freely edit this file. See commented blocks below for -->
 <!-- some examples of how to customize the build. -->
 <!-- (If you delete it and reopen the project it will be recreated.) -->
@@ -9,7 +9,7 @@
 <!-- in the project's Project Properties dialog box. 2-->
 <project name="ConjuntosTotal" default="default" basedir=".">
     <description>Builds, tests, and runs the project ConjuntosTotal.</description>
-    <import file="nbproject/build-impl.xml">
+    <import file="nbproject/build-impl.xml"/>
     <!--
 
     There exist several targets which are by default empty and which can be 
